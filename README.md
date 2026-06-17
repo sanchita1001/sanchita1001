@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Sanchita+Jain;Full+Stack+Developer;Computer+Engineering+Student;Hackathon+Finalist" alt="Typing SVG" />
+</p>
+
 # Hi there 👋, I'm Sanchita Jain
 
 ### Computer Engineering Student | Full Stack Developer | Hackathon Finalist
