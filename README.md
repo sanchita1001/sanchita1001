@@ -21,7 +21,7 @@ I'm a Computer Engineering student passionate about building scalable web applic
 
 ---
 
-## 🛠️ Tech Stack
+
 ## 🛠️ Tech Stack
 
 ### Languages
